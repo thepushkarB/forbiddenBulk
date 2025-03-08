@@ -1,4 +1,4 @@
-# forbiddenBulk 💪
+# Forbidden Bulk 💪
 
 ## Overview
 
@@ -25,7 +25,7 @@
 
 🔗 **Live Demo:** [forbiddenBulk](https://forbiddenbulk.netlify.app/)
 
-![Snapshot-i](public.ss1.png)
+![Snapshot-i](public/ss1.png)
 ![Snaphot-ii](public/ss2.png)
 ![Snaphot-iii](public/ss3.png)
 ![Snaphot-iv](public/ss4.png)
