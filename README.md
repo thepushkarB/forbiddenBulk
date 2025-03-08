@@ -57,7 +57,6 @@ npm run dev
 - **ReactJS** – JavaScript library for building user interfaces
 - **Vite** – Next-generation frontend tooling
 - **Tailwind CSS** – Utility-first CSS framework
-- [Add any other technologies or APIs used]
 
 ## How to Use
 
@@ -68,6 +67,4 @@ npm run dev
 
 ## Acknowledgements
 
-- [Resource or Library 1](https://example.com/)
-- [Resource or Library 2](https://example.com/)
-- [Resource or Library 3](https://example.com/)
+- [James for training algo & exercise data](https://github.com/jamezmca)
